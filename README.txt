@@ -30,4 +30,9 @@ Credits:
 		Misc. Sass functions (@HugoGiraudel)
 		Skel (skel.io)
 
+<<<<<<< HEAD
 		No more test line
+=======
+		Test line 1
+		Test line 2
+>>>>>>> 69e0e3d5c826a57fcca5889234f911c4bc3ffe13
